@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/GJ/Xf/MD5E-s24900--7faf328400884c8bf1771ab071bb461e.cmd/MD5E-s24900--7faf328400884c8bf1771ab071bb461e.cmd
+/annex/objects/MD5E-s24900--7faf328400884c8bf1771ab071bb461e.cmd
