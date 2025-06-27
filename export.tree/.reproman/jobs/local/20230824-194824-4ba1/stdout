@@ -1,0 +1,47 @@
+Going to distribute directory /scratch1/03201/jbwexler/openneuro_derivatives/annexes to /tmp
+Running distribution functions now...
+/scratch1/03201/jbwexler/openneuro_derivatives/annexes has been copied to /tmp/annexes on each compute node.
+Please remember to copy the requried files out of /tmp before the job finishes!
+Done.
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep
+   Processes per host: 3
+   Total processes:    3
+   Total jobs:         3
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 1 running job 1 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stderr.0)
+Launcher: Task 2 running job 2 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stderr.1)
+Launcher: Task 0 running job 3 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/.reproman/jobs/local/20230824-194824-4ba1/stderr.2)
+Launcher: Job 3 completed in 29074 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 1 completed in 33477 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 2 completed in 33478 seconds.
+Launcher: Task 2 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :    81.82 GB
+ Max Physical Memory Per Node :    54.12 GB
+ Available Memory at time 0.0 :   177.56 GB
+ Total Elapsed Time           :  0d 9h 18m 14s  42ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds003752-fmriprep/remora_5741792
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
